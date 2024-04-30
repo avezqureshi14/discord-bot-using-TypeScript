@@ -1,11 +1,6 @@
 
 # Discord Support Bot
 
-## About Me
-🚀 Full Stack Developer | MERN & Python Django Enthusiast
-Welcome to my corner of the digital world! 👋 I'm Mohammad Avez Qureshi, a passionate Full Stack Developer with expertise in both MERN (MongoDB, Express.js, React.js, Node.js) and Python Django stacks. Currently honing my skills at Sinhgad Institutes in Pune.
-### for more such application visit my website https://avezqureshi.netlify.app/
-
 ## Overview
 
 The Discord Support Bot is a sophisticated chatbot developed in TypeScript with the primary objective of offering support and addressing customer inquiries. A key feature integrated into this bot is the ##RAG (Retrieval Augmented Generation) Model, which employs a Language Model (LLM) for answering user queries. Notably, the OpenAI GPT-3.5 model is utilized within this bot to deliver tailored responses by leveraging our extensive knowledge base. This ensures a customized and effective interaction with users seeking assistance.
